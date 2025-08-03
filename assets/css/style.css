@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.generator {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 2px 2px 12px rgba(0,0,0,0.1);
+}
+
+textarea {
+  width: 100%;
+  margin-top: 1rem;
+  height: 100px;
+}
