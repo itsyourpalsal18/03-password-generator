@@ -20,3 +20,17 @@ textarea {
   margin-top: 1rem;
   height: 100px;
 }
+
+button {
+  padding: 0.75rem 1.25rem;
+  font-size: 1rem;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #555;
+}
